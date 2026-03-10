@@ -1,0 +1,7 @@
+{
+  "name": "SmartMart AI Billing",
+  "description": "A mobile-first supermarket billing app using Gemini AI for multi-product image recognition and inventory management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
